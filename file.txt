@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 echo "Welcome to Git - User 1"
+=======
+echo "Welcome to Git - User1"
+>>>>>>> 5feec34 (checking merge conflict on release branch)
